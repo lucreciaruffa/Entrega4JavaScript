@@ -20,6 +20,7 @@
 
 img {
   width: 35%;
+  min-width: 300px;
   padding: 10px;
 }
 
@@ -84,7 +85,7 @@ img {
 
 .input {
   height: 30px;
-  width: 380px;
+  min-width: 320px;
   font-size: 15px;
   text-align: center;
   color: #3f3f3f;
